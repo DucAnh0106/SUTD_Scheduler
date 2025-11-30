@@ -1,2 +1,16 @@
+#Mac OS thing
 .DS_Store
+
+#credentials is the API key and token is for logged-in session (only do one time)
+#next time it knows who you are
+credentials.json
+token.json
+
+#When use pyInstaller to convert code to .exe or Mach O-, these will be created
+#so need ignore
+build/
+dist/
+*.spec
+
+#python creates this to run faster (useless to other computer) so no need
 __pycache__/
