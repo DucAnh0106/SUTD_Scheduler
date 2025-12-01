@@ -34,7 +34,7 @@ This tool scrapes your weekly schedule from SUTD portal and automatically syncs 
 * In the top bar, click **"+ Create credentials"** and select **OAuth client ID**
 * Select **Desktop app** from the drop down menu and click **Create**
 * After that, a window will pop up and just click **DOWNLOAD JSON**
-* Rename it to **credentials**
+* Rename it to **"credentials"**
 
 ## Main Process
 
