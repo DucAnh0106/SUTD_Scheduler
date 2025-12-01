@@ -67,7 +67,7 @@ chmod +x main
 ```
 pip install selenium undetected-chromedriver google-auth-oauthlib google-auth-httplib2 google-api-python-client beautifulsoup4
 ```
-* After that, just run main.py and follow the steps on the screen
+* After that, put the **credentials.json** inside the code folder and run main.py
 
 
 ### Windows
@@ -86,4 +86,4 @@ pip install selenium undetected-chromedriver google-auth-oauthlib google-auth-ht
 ```
 pip install selenium undetected-chromedriver google-auth-oauthlib google-auth-httplib2 google-api-python-client beautifulsoup4
 ```
-* After that, just run main.py and follow the steps on the screen
+* After that, put the **credentials.json** inside the code folder and run main.py
