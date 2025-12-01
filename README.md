@@ -3,7 +3,7 @@ This tool scrapes your weekly schedule from SUTD portal and automatically syncs 
 
 ## ⭐Key notes⭐:
 - You only have to go through the below setting up process once.
-=> For subsequent times, the program already knows who you are so you just need to press run and log into MyPortal
+=> For subsequent times, the program already knows who you are so you just need to press run and log into MyPortal (make sure you still keep the program in your computer, if not then you have to repeat the setting up)
 - At the beginning of every term, you must run the program again to get your schedules to Google Calendar
 
 
@@ -36,7 +36,7 @@ This tool scrapes your weekly schedule from SUTD portal and automatically syncs 
 * After that, a window will pop up and just click **DOWNLOAD JSON**
 * Rename it to **credentials.json**
 
-## Get Started
+## Main Process
 
 Which operating system are you using?
 
@@ -73,7 +73,7 @@ pip install selenium undetected-chromedriver google-auth-oauthlib google-auth-ht
 ### Windows
 
 **Option 1**: 'I just need my schedules synced to Google Calendar'
-* Download this .exe file via this [link](https://github.com/DucAnh0106/SUTD_Scheduler/releases/download/v1.0.0/main)
+* Download this .exe file via this [link](https://github.com/DucAnh0106/SUTD_Scheduler/releases/download/v1.0.0/main.exe)
 * Create a folder in your Desktop and name it **"SUTD_Scheduler"**
 * Put your **credentials.json** file inside this folder
 * Go to **SUTD_Scheduler** folder then double-click on the main.exe file
