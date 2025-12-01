@@ -29,7 +29,7 @@ This tool scrapes your weekly schedule from SUTD portal and automatically syncs 
 * After that, you finish and press **Create**
 
 **Step 5**: Create a JSON file that the python scripts need to talk to google calendar
-* Go back to **Google Cloud console*
+* Go back to [Google Cloud Console](https://console.cloud.google.com/)
 * Look for **APIs & Services** again
 * In the top bar, click **"+ Create credentials"** and select **OAuth client ID**
 * Select **Desktop app** from the drop down menu and click **Create**
