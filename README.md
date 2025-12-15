@@ -1,7 +1,7 @@
 # 🗓️SUTD Schedules to Google Calendar
 This tool scrapes your weekly schedule from SUTD portal and automatically syncs it to your Google Calendar
 
-## ⭐Key notes⭐:
+## ⭐Key notes:
 - You only have to go through the below setting up process once.
 => For subsequent times, the program already knows who you are so you just need to press run and log into MyPortal (make sure you still keep the program in your computer, if not then you have to repeat the setting up)
 - At the beginning of every term, you must run the program again to get your schedules to Google Calendar
